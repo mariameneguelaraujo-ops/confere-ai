@@ -1,0 +1,30 @@
+
+/* Reset básico */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Cabeçalho */
+.cabecalho {
+    padding: 15px 25px;
+    background-color: #2457a7;
+    color: white;
+    text-align: center;
+}
+
+/* Cartão */
+.cartao {
+    width: 260px;
+    height: 200px;
+    margin: 30px auto;
+    background-color: #e8f0ff;
+    border-radius: 12px;
+    text-align: center;
+}
+
+/* Imagem */
+.cartao-imagem {
+    width: 100%;
+}
